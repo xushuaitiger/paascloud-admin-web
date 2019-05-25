@@ -160,3 +160,13 @@ At the same time, you can report your project to us. We will place the excellent
 [MIT](https://github.com/d2-projects/d2-admin/blob/master/LICENSE)
 
 Copyright (c) 2018-present FairyEver
+
+## 英雄召集
+
+ * 社区paascloud管理后台开发
+ * 要求有开源精神有vue语言基础
+ * paascloud-master跑起来
+ * 感兴趣的童鞋加我微信
+ 
+<a><img src="http://img.paascloud.net/image/paascloud/liuzhaoming-wechat.jpeg"/></a>
+ 
