@@ -166,7 +166,7 @@ Copyright (c) 2018-present FairyEver
  * 社区paascloud管理后台开发
  * 要求有开源精神有vue语言基础
  * paascloud-master跑起来
- * 感兴趣的童鞋加我微信
+ * 感兴趣的童鞋加我微信, 进专属微信群
  
 <a><img src="http://img.paascloud.net/image/paascloud/liuzhaoming-wechat.jpeg"/></a>
  
