@@ -7,6 +7,9 @@ import components from './modules/components'
 import element from './modules/element'
 import filters from './modules/filters'
 import business from './modules/business'
+import uac from './modules/uac'
+import mdc from './modules/mdc'
+import omc from './modules/omc'
 
 import layoutHeaderAside from '@/layout/header-aside'
 
@@ -65,7 +68,10 @@ const frameIn = [
   components,
   element,
   filters,
-  business
+  business,
+  uac,
+  mdc,
+  omc
 ]
 
 /**
